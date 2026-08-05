@@ -40,3 +40,26 @@ Think of a virtual environment as your own <em>workspace</em>, where your projec
 </td>
 </tr>
 </table>
+
+<div style="margin-top:20px; border:2px solid #2583d8; border-radius:10px; background-color:#ffffff; padding:25px 30px; font-family:Arial, sans-serif;">
+
+<h2 style="
+     color:#1474c4;
+     font-size:28px;
+     margin-top:0;">
+        Step 1: Install uv
+</h2>
+
+<p style="
+    font-size:19px;
+    line-height:1.6;">
+Before creating a virtual environment, download and install
+<code>uv</code> using the official Astral installer.
+</p>
+
+<p style="
+    font-size:19px;
+    line-height:1.6;">
+Open <strong>PowerShell</strong> and run:
+</p>
+</div>
