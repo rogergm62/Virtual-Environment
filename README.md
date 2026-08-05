@@ -1,11 +1,5 @@
-<h1 style="
-    text-align:center;
-    font-size:30px;
-    margin-top:25px;
-    margin-bottom:35px;
-    font-family:Arial, sans-serif;
-">
-    How to Install and Run Python Projects in a Virtual Environment Using uv
+<h1>
+    How to Create Your AI Personal Assistant
 </h1>
 <table style="width:100%; border:2px solid #2583d8; border-radius:10px; background-color:white;">
 <tr>
