@@ -5,7 +5,7 @@
 <tr>
 
 <td>
-<img src="./assets/RobThink.png" alt="Robot Hola">
+<img src="./assets/RoboHi.png" alt="Robot Hola">
 </td>
 
 <td>
