@@ -1,6 +1,9 @@
 <h1>
     How to Create Your AI Personal Assistant
 </h1>
+![Buffer Overflow](https://img.shields.io/badge/Security-Buffer%20Overflow-red)
+![Windows Exploitation](https://img.shields.io/badge/Platform-Windows-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-green)
 <table>
 <tr>
 
