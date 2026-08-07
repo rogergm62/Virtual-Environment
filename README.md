@@ -13,7 +13,9 @@
 <p>
 This project is developed using a virtual environment.
     
-If you don't know how to deploy a venv, follow the instructions here!.
+If you don't know how to deploy a venv, follow the instructions from
+
+the Jupyter Lab "RunningEnvProjects.ipynb!" located in this repo.
 
 Once your virtual environment is deployed, you can easily run any
 
