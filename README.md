@@ -19,7 +19,7 @@ Once your virtual environment is deployed, you can easily run any
 
 project from VSCode, Cursor, or your local Jupyter Installation.
 
-<code>uv</code> You’ll have a clean, modern, and reproducible environment.
+You’ll have a clean, modern, and reproducible environment.
 
 <strong>Tip:</strong>
 A virtual environment is your own <em>workspace</em>. You now have: a clean project, 
