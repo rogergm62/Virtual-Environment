@@ -1,6 +1,7 @@
-![Buffer Overflow](https://img.shields.io/badge/Security-Buffer%20Overflow-red)
-![Windows Exploitation](https://img.shields.io/badge/Platform-Windows-blue)
-![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-green)
+![Topic](https://img.shields.io/badge/Topic-AI_Agents-8A2BE2)
+![Language](https://img.shields.io/badge/Language-Python-3776AB)
+![Environment](https://img.shields.io/badge/Environment-uv-DE5FE9)
+![Level](https://img.shields.io/badge/Level-Beginner-2EA44F)
 <h1>
     How to Create Your AI Personal Assistant
 </h1>
@@ -19,7 +20,7 @@ This project is developed using a virtual environment.
     
 If you don't know how to deploy a venv, follow the instructions from
 
-the Jupyter Lab "RunningEnvProjects.ipynb!" located in this repo.
+the Jupyter Lab "RunningEnvProjects.ipynb" located in this repo.
 
 Once your virtual environment is deployed, you can easily run any
 
@@ -39,13 +40,11 @@ no pip headaches, and no Python version conflicts.
 
 <div>
 <h2>
-        Step 1: Install uv
+        Step 1: Analyze the Jupyter Lab "AIAgentOne.ipynb". 
 </h2>
 
 <p>
-Before creating a virtual environment, download and install
-<code>uv</code> using the official Astral installer.
-
-Open <strong>PowerShell</strong> and run:
+The Jupyter Lab "AIAgentOne.ipynb" is a detailed process for creating an AI Agent
+    using liteLLM
 </p>
 </div>
