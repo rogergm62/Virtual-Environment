@@ -40,11 +40,11 @@ no pip headaches, and no Python version conflicts.
 
 <div>
 <h2>
-        Step 1: Analyze the Jupyter Lab "AIAgentOne.ipynb". 
+        Step 2: Analyze the Jupyter Lab "AIAgentsExample1.ipynb". 
 </h2>
 
 <p>
-The Jupyter Lab "AIAgentOne.ipynb" is a detailed process for creating an AI Agent
+The Jupyter Lab "AIAgentsExample1.ipynb" is a detailed process for creating asimple AI Agent
     using liteLLM
 </p>
 </div>
