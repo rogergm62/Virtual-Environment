@@ -48,3 +48,13 @@ The Jupyter Lab "AIAgentsExample1.ipynb" is a detailed process for creating asim
     using liteLLM
 </p>
 </div>
+
+<div>
+<h2>
+        Step 3: Deploy your own personal assistant. 
+</h2>
+
+<p>
+Once you understand steps 1 and 2, you are ready to deploy your own personal assistant. Follow the instructions from PersonalAssistant.ipynb Jupyter Lab.
+</p>
+</div>
