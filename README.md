@@ -14,7 +14,7 @@
 </td>
 
 <td>
-<h2> Step 1: Download this repo </h2>
+<h2> Part 1: Download this repo </h2>
 <p>
 This project is developed using a virtual environment.
     
@@ -40,7 +40,7 @@ no pip headaches, and no Python version conflicts.
 
 <div>
 <h2>
-        Step 2: Analyze the Jupyter Lab "AIAgentsExample1.ipynb". 
+        Part 2: Analyze the Jupyter Lab "AIAgentsExample1.ipynb". 
 </h2>
 
 <p>
@@ -51,10 +51,20 @@ The Jupyter Lab "AIAgentsExample1.ipynb" is a detailed process for creating asim
 
 <div>
 <h2>
-        Step 3: Deploy your own personal assistant. 
+        Part 3: Deploy your own personal assistant. 
 </h2>
 
 <p>
 Once you understand steps 1 and 2, you are ready to deploy your own personal assistant. Follow the instructions from PersonalAssistant.ipynb Jupyter Lab.
+</p>
+</div>
+
+<div>
+<h2>
+        Part 4: Example of how compare LLMs. 
+</h2>
+
+<p>
+The Lab ComparingAgents.ipynb is an about how to evaluate the performance of several LLMs models including paid and open-source. The last section of this example shows an improved version using decorators. If you don't know how to use decorators review the lab Decorators.ipynb
 </p>
 </div>
